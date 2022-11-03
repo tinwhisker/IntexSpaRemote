@@ -1,4 +1,7 @@
 # Intex PureSpa Remote
+
+*Archived: I have no time to play with this at this time and it's stagnated.*
+
 Control and monitor your Intex PureSpa remotely.
 
 First push will be my existing project - warts'n'all.
